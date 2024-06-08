@@ -1,0 +1,7 @@
+{
+    "files": ["e.ts"],
+    "compilerOptions": {
+      "outFile": "dist/app.js"
+    }
+  }
+  
